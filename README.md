@@ -19,7 +19,9 @@ Automator+翻译API实现的便捷翻译工具，通过快捷键快速翻译单�
 
 
 ### 体验一下
-下载translate.workflow，双击安装
+下载translate.workflow，双击安装，设置快捷键Command+q
+
+
 选中一段文本，按Command+q试试吧！
 
 ### 私有化部署
